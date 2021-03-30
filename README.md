@@ -33,7 +33,7 @@ this.s = new sigma({
     });
     this.s.refresh();
 ```
-# In your component.html
+# in your component.html
 ```bash
 <div>
     <h1>Test Sigma</h1>
@@ -47,7 +47,7 @@ this.s = new sigma({
 ```bash
 ng serve
 ```
-# See application on
+# see application on
 
 http://localhost:4200
 
